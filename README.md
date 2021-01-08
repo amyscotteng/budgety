@@ -48,4 +48,4 @@ Project is: In progress due to potential improvements
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Amy Scott
